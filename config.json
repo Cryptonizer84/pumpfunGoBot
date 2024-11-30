@@ -1,18 +1,18 @@
 {
 
-    "privateKey": "3jHHhRiRk9sPqdk4oZq9vhXohxAoWkEu36WqyTB",
+    "privateKey": "41kcikydRdmSpZGk7FCZF9x1g9au5gUGBKVqQ1sC7AhFGDG9YMcqFQrR21wRmzr3r2PhqfY5HMvtWFFjWneCa6S8",
     "APIKey": "",
     "autoSellTimeout": 18,
     "maxInitialBuy": 5,
     "minInitialBuy": 0,
     "pendingTradesLimit": 3,
-    "takeProfit": 5,
+    "takeProfit": 50,
     "stopLoss": 0,
-    "buyAmount": 0.05,
+    "buyAmount": 0.01,
     "sellAmount": "100%",
-    "buySlippage": 10,
-    "sellSlippage": 100,
-    "buyFee": 0.005,
-    "sellFee": 0.005
+    "buySlippage": 20,
+    "sellSlippage": 40,
+    "buyFee": 0.004,
+    "sellFee": 0.004
   }
   
